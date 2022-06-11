@@ -1,4 +1,5 @@
-<img url="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
+
+![138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d](https://user-images.githubusercontent.com/101296455/173165842-858241e5-1de1-47fc-a6c1-ce461d660b29.gif)
 
 ### Hi there, I'am Lucas Andrade 👋
 
