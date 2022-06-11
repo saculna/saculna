@@ -1,10 +1,10 @@
-<a href="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"></a>
+<img url="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif">
 
 ### Hi there, I'am Lucas Andrade 👋
 
 <div align="center">
   <a href="https://github.com/saculna">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saculnai&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saculna&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saculna&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
