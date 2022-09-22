@@ -24,6 +24,8 @@
   ![Snake animation](https://github.com/saculna/saculna/blob/output/github-contribution-grid-snake.svg)
     
   </div>
+  
+  /toggle
 
 
 <!--
